@@ -1,0 +1,14 @@
+C:\dotnet\hh\bin\Debug\net8.0\hh.exe
+C:\dotnet\hh\bin\Debug\net8.0\hh.deps.json
+C:\dotnet\hh\bin\Debug\net8.0\hh.runtimeconfig.json
+C:\dotnet\hh\bin\Debug\net8.0\hh.dll
+C:\dotnet\hh\bin\Debug\net8.0\hh.pdb
+C:\dotnet\hh\obj\Debug\net8.0\hh.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\hh\obj\Debug\net8.0\hh.AssemblyInfoInputs.cache
+C:\dotnet\hh\obj\Debug\net8.0\hh.AssemblyInfo.cs
+C:\dotnet\hh\obj\Debug\net8.0\hh.csproj.CoreCompileInputs.cache
+C:\dotnet\hh\obj\Debug\net8.0\hh.dll
+C:\dotnet\hh\obj\Debug\net8.0\refint\hh.dll
+C:\dotnet\hh\obj\Debug\net8.0\hh.pdb
+C:\dotnet\hh\obj\Debug\net8.0\hh.genruntimeconfig.cache
+C:\dotnet\hh\obj\Debug\net8.0\ref\hh.dll
