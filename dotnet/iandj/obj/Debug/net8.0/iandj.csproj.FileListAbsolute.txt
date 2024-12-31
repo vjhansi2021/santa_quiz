@@ -1,0 +1,14 @@
+D:\dotnet\iandj\bin\Debug\net8.0\iandj.exe
+D:\dotnet\iandj\bin\Debug\net8.0\iandj.deps.json
+D:\dotnet\iandj\bin\Debug\net8.0\iandj.runtimeconfig.json
+D:\dotnet\iandj\bin\Debug\net8.0\iandj.dll
+D:\dotnet\iandj\bin\Debug\net8.0\iandj.pdb
+D:\dotnet\iandj\obj\Debug\net8.0\iandj.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\iandj\obj\Debug\net8.0\iandj.AssemblyInfoInputs.cache
+D:\dotnet\iandj\obj\Debug\net8.0\iandj.AssemblyInfo.cs
+D:\dotnet\iandj\obj\Debug\net8.0\iandj.csproj.CoreCompileInputs.cache
+D:\dotnet\iandj\obj\Debug\net8.0\iandj.dll
+D:\dotnet\iandj\obj\Debug\net8.0\refint\iandj.dll
+D:\dotnet\iandj\obj\Debug\net8.0\iandj.pdb
+D:\dotnet\iandj\obj\Debug\net8.0\iandj.genruntimeconfig.cache
+D:\dotnet\iandj\obj\Debug\net8.0\ref\iandj.dll
